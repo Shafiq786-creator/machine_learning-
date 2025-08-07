@@ -1,0 +1,4 @@
+log_id,customer_id,action,timestamp
+1,101,login,2023-08-01 10:00
+2,101,buy,2023-08-01 10:05
+3,102,login,2023-08-01 11:00

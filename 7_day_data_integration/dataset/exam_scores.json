@@ -1,0 +1,602 @@
+[
+  {
+    "exam_id": 10445,
+    "student_id": 2023,
+    "subject": "Science",
+    "score": 73.11
+  },
+  {
+    "exam_id": 10941,
+    "student_id": 2069,
+    "subject": "History",
+    "score": 62.54
+  },
+  {
+    "exam_id": 10845,
+    "student_id": 2094,
+    "subject": "Science",
+    "score": 52.56
+  },
+  {
+    "exam_id": 10251,
+    "student_id": 2012,
+    "subject": "Science",
+    "score": 91.71
+  },
+  {
+    "exam_id": 10249,
+    "student_id": 2097,
+    "subject": "History",
+    "score": 69.89
+  },
+  {
+    "exam_id": 10684,
+    "student_id": 2049,
+    "subject": "Science",
+    "score": 32.01
+  },
+  {
+    "exam_id": 10871,
+    "student_id": 2042,
+    "subject": "English",
+    "score": 64.13
+  },
+  {
+    "exam_id": 10363,
+    "student_id": 2034,
+    "subject": "Science",
+    "score": 49.58
+  },
+  {
+    "exam_id": 10610,
+    "student_id": 2090,
+    "subject": "Science",
+    "score": 68.91
+  },
+  {
+    "exam_id": 10529,
+    "student_id": 2025,
+    "subject": "Math",
+    "score": 46.89
+  },
+  {
+    "exam_id": 10416,
+    "student_id": 2063,
+    "subject": "English",
+    "score": 78.34
+  },
+  {
+    "exam_id": 10661,
+    "student_id": 2092,
+    "subject": "History",
+    "score": 61.37
+  },
+  {
+    "exam_id": 10017,
+    "student_id": 2012,
+    "subject": "Science",
+    "score": 45.51
+  },
+  {
+    "exam_id": 10708,
+    "student_id": 2032,
+    "subject": "Science",
+    "score": 76.48
+  },
+  {
+    "exam_id": 10377,
+    "student_id": 2061,
+    "subject": "Science",
+    "score": 59.79
+  },
+  {
+    "exam_id": 10763,
+    "student_id": 2071,
+    "subject": "Science",
+    "score": 54.63
+  },
+  {
+    "exam_id": 10464,
+    "student_id": 2035,
+    "subject": "Science",
+    "score": 47.6
+  },
+  {
+    "exam_id": 10123,
+    "student_id": 2093,
+    "subject": "English",
+    "score": 52.09
+  },
+  {
+    "exam_id": 10760,
+    "student_id": 2069,
+    "subject": "English",
+    "score": 43.41
+  },
+  {
+    "exam_id": 10756,
+    "student_id": 2062,
+    "subject": "Science",
+    "score": 80.72
+  },
+  {
+    "exam_id": 11000,
+    "student_id": 2098,
+    "subject": "Science",
+    "score": 98.64
+  },
+  {
+    "exam_id": 10852,
+    "student_id": 2025,
+    "subject": "Science",
+    "score": 45.92
+  },
+  {
+    "exam_id": 10183,
+    "student_id": 2039,
+    "subject": "Math",
+    "score": 79.56
+  },
+  {
+    "exam_id": 10129,
+    "student_id": 2036,
+    "subject": "Math",
+    "score": 98.2
+  },
+  {
+    "exam_id": 10566,
+    "student_id": 2038,
+    "subject": "English",
+    "score": 74.65
+  },
+  {
+    "exam_id": 10770,
+    "student_id": 2063,
+    "subject": "Math",
+    "score": 91.09
+  },
+  {
+    "exam_id": 10587,
+    "student_id": 2037,
+    "subject": "History",
+    "score": 63.51
+  },
+  {
+    "exam_id": 10348,
+    "student_id": 2024,
+    "subject": "Math",
+    "score": 47.67
+  },
+  {
+    "exam_id": 10882,
+    "student_id": 2062,
+    "subject": "Math",
+    "score": 87.55
+  },
+  {
+    "exam_id": 10410,
+    "student_id": 2063,
+    "subject": "Math",
+    "score": 70.39
+  },
+  {
+    "exam_id": 10702,
+    "student_id": 2007,
+    "subject": "English",
+    "score": 40.44
+  },
+  {
+    "exam_id": 10576,
+    "student_id": 2039,
+    "subject": "Math",
+    "score": 99.57
+  },
+  {
+    "exam_id": 10121,
+    "student_id": 2072,
+    "subject": "History",
+    "score": 72.44
+  },
+  {
+    "exam_id": 10809,
+    "student_id": 2080,
+    "subject": "English",
+    "score": 84.3
+  },
+  {
+    "exam_id": 10389,
+    "student_id": 2058,
+    "subject": "History",
+    "score": 50.81
+  },
+  {
+    "exam_id": 10602,
+    "student_id": 2055,
+    "subject": "Science",
+    "score": 69.8
+  },
+  {
+    "exam_id": 10061,
+    "student_id": 2079,
+    "subject": "Math",
+    "score": 96.33
+  },
+  {
+    "exam_id": 10212,
+    "student_id": 2081,
+    "subject": "English",
+    "score": 48.53
+  },
+  {
+    "exam_id": 10083,
+    "student_id": 2021,
+    "subject": "English",
+    "score": 42.17
+  },
+  {
+    "exam_id": 10076,
+    "student_id": 2021,
+    "subject": "Math",
+    "score": 58.6
+  },
+  {
+    "exam_id": 10705,
+    "student_id": 2077,
+    "subject": "History",
+    "score": 50.39
+  },
+  {
+    "exam_id": 10237,
+    "student_id": 2037,
+    "subject": "Science",
+    "score": 79.21
+  },
+  {
+    "exam_id": 10464,
+    "student_id": 2010,
+    "subject": "English",
+    "score": 94.67
+  },
+  {
+    "exam_id": 10806,
+    "student_id": 2081,
+    "subject": "English",
+    "score": 59.76
+  },
+  {
+    "exam_id": 10557,
+    "student_id": 2029,
+    "subject": "English",
+    "score": 93.59
+  },
+  {
+    "exam_id": 10846,
+    "student_id": 2019,
+    "subject": "Math",
+    "score": 34.17
+  },
+  {
+    "exam_id": 10811,
+    "student_id": 2040,
+    "subject": "Science",
+    "score": 60.74
+  },
+  {
+    "exam_id": 10479,
+    "student_id": 2089,
+    "subject": "Science",
+    "score": 78.98
+  },
+  {
+    "exam_id": 10965,
+    "student_id": 2035,
+    "subject": "History",
+    "score": 60.64
+  },
+  {
+    "exam_id": 10612,
+    "student_id": 2006,
+    "subject": "History",
+    "score": 81.42
+  },
+  {
+    "exam_id": 10618,
+    "student_id": 2033,
+    "subject": "Math",
+    "score": 36.39
+  },
+  {
+    "exam_id": 10984,
+    "student_id": 2087,
+    "subject": "Math",
+    "score": 99.97
+  },
+  {
+    "exam_id": 10688,
+    "student_id": 2035,
+    "subject": "Math",
+    "score": 83.42
+  },
+  {
+    "exam_id": 10179,
+    "student_id": 2061,
+    "subject": "History",
+    "score": 94.13
+  },
+  {
+    "exam_id": 10185,
+    "student_id": 2075,
+    "subject": "History",
+    "score": 74.43
+  },
+  {
+    "exam_id": 10503,
+    "student_id": 2012,
+    "subject": "History",
+    "score": 54.36
+  },
+  {
+    "exam_id": 10341,
+    "student_id": 2042,
+    "subject": "Math",
+    "score": 90.04
+  },
+  {
+    "exam_id": 10337,
+    "student_id": 2053,
+    "subject": "History",
+    "score": 50.18
+  },
+  {
+    "exam_id": 10967,
+    "student_id": 2052,
+    "subject": "Math",
+    "score": 61.84
+  },
+  {
+    "exam_id": 10322,
+    "student_id": 2033,
+    "subject": "Science",
+    "score": 38.11
+  },
+  {
+    "exam_id": 10791,
+    "student_id": 2052,
+    "subject": "Math",
+    "score": 76.04
+  },
+  {
+    "exam_id": 10555,
+    "student_id": 2060,
+    "subject": "History",
+    "score": 33.79
+  },
+  {
+    "exam_id": 10530,
+    "student_id": 2047,
+    "subject": "History",
+    "score": 73.78
+  },
+  {
+    "exam_id": 10778,
+    "student_id": 2007,
+    "subject": "English",
+    "score": 48.69
+  },
+  {
+    "exam_id": 10134,
+    "student_id": 2037,
+    "subject": "History",
+    "score": 91.66
+  },
+  {
+    "exam_id": 10496,
+    "student_id": 2016,
+    "subject": "Math",
+    "score": 98.12
+  },
+  {
+    "exam_id": 10623,
+    "student_id": 2031,
+    "subject": "English",
+    "score": 51.75
+  },
+  {
+    "exam_id": 10014,
+    "student_id": 2071,
+    "subject": "History",
+    "score": 36.52
+  },
+  {
+    "exam_id": 10861,
+    "student_id": 2015,
+    "subject": "History",
+    "score": 96.29
+  },
+  {
+    "exam_id": 10663,
+    "student_id": 2020,
+    "subject": "History",
+    "score": 95.29
+  },
+  {
+    "exam_id": 10298,
+    "student_id": 2066,
+    "subject": "Science",
+    "score": 59.08
+  },
+  {
+    "exam_id": 10494,
+    "student_id": 2061,
+    "subject": "English",
+    "score": 61.98
+  },
+  {
+    "exam_id": 10148,
+    "student_id": 2050,
+    "subject": "English",
+    "score": 94.53
+  },
+  {
+    "exam_id": 10520,
+    "student_id": 2096,
+    "subject": "English",
+    "score": 90.48
+  },
+  {
+    "exam_id": 10282,
+    "student_id": 2099,
+    "subject": "History",
+    "score": 53.79
+  },
+  {
+    "exam_id": 10806,
+    "student_id": 2065,
+    "subject": "Science",
+    "score": 87.44
+  },
+  {
+    "exam_id": 10289,
+    "student_id": 2093,
+    "subject": "Science",
+    "score": 88.62
+  },
+  {
+    "exam_id": 10593,
+    "student_id": 2085,
+    "subject": "History",
+    "score": 90.57
+  },
+  {
+    "exam_id": 10457,
+    "student_id": 2069,
+    "subject": "History",
+    "score": 54.16
+  },
+  {
+    "exam_id": 10565,
+    "student_id": 2098,
+    "subject": "History",
+    "score": 61.87
+  },
+  {
+    "exam_id": 10329,
+    "student_id": 2025,
+    "subject": "English",
+    "score": 70.03
+  },
+  {
+    "exam_id": 10239,
+    "student_id": 2100,
+    "subject": "History",
+    "score": 33.06
+  },
+  {
+    "exam_id": 10762,
+    "student_id": 2061,
+    "subject": "History",
+    "score": 57.03
+  },
+  {
+    "exam_id": 10679,
+    "student_id": 2084,
+    "subject": "English",
+    "score": 64.67
+  },
+  {
+    "exam_id": 10037,
+    "student_id": 2017,
+    "subject": "Science",
+    "score": 90.88
+  },
+  {
+    "exam_id": 10895,
+    "student_id": 2057,
+    "subject": "Math",
+    "score": 66.82
+  },
+  {
+    "exam_id": 10467,
+    "student_id": 2002,
+    "subject": "English",
+    "score": 58.7
+  },
+  {
+    "exam_id": 10670,
+    "student_id": 2020,
+    "subject": "Math",
+    "score": 62.86
+  },
+  {
+    "exam_id": 10992,
+    "student_id": 2034,
+    "subject": "Science",
+    "score": 73.63
+  },
+  {
+    "exam_id": 10407,
+    "student_id": 2084,
+    "subject": "Math",
+    "score": 89.62
+  },
+  {
+    "exam_id": 10872,
+    "student_id": 2087,
+    "subject": "History",
+    "score": 96.79
+  },
+  {
+    "exam_id": 10641,
+    "student_id": 2092,
+    "subject": "History",
+    "score": 91.07
+  },
+  {
+    "exam_id": 10036,
+    "student_id": 2080,
+    "subject": "Math",
+    "score": 46.43
+  },
+  {
+    "exam_id": 10700,
+    "student_id": 2037,
+    "subject": "English",
+    "score": 82.27
+  },
+  {
+    "exam_id": 10444,
+    "student_id": 2013,
+    "subject": "Math",
+    "score": 61.06
+  },
+  {
+    "exam_id": 10710,
+    "student_id": 2039,
+    "subject": "Math",
+    "score": 33.22
+  },
+  {
+    "exam_id": 10815,
+    "student_id": 2008,
+    "subject": "Science",
+    "score": 55.09
+  },
+  {
+    "exam_id": 10441,
+    "student_id": 2019,
+    "subject": "English",
+    "score": 67.18
+  },
+  {
+    "exam_id": 10579,
+    "student_id": 2088,
+    "subject": "English",
+    "score": 41.9
+  },
+  {
+    "exam_id": 10080,
+    "student_id": 2079,
+    "subject": "History",
+    "score": 73.38
+  }
+]

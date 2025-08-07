@@ -1,0 +1,502 @@
+[
+  {
+    "order_id": 5935,
+    "customer_id": 1073,
+    "amount": 4443.65
+  },
+  {
+    "order_id": 5322,
+    "customer_id": 1028,
+    "amount": 3449.47
+  },
+  {
+    "order_id": 5405,
+    "customer_id": 1083,
+    "amount": 2564.83
+  },
+  {
+    "order_id": 5271,
+    "customer_id": 1018,
+    "amount": 1609.82
+  },
+  {
+    "order_id": 5574,
+    "customer_id": 1069,
+    "amount": 1682.34
+  },
+  {
+    "order_id": 5598,
+    "customer_id": 1055,
+    "amount": 4540.2
+  },
+  {
+    "order_id": 5408,
+    "customer_id": 1047,
+    "amount": 1486.94
+  },
+  {
+    "order_id": 5141,
+    "customer_id": 1066,
+    "amount": 2720.82
+  },
+  {
+    "order_id": 5773,
+    "customer_id": 1007,
+    "amount": 4374.96
+  },
+  {
+    "order_id": 5156,
+    "customer_id": 1081,
+    "amount": 1219.92
+  },
+  {
+    "order_id": 5696,
+    "customer_id": 1055,
+    "amount": 3183.84
+  },
+  {
+    "order_id": 5394,
+    "customer_id": 1049,
+    "amount": 3181.5
+  },
+  {
+    "order_id": 5479,
+    "customer_id": 1068,
+    "amount": 1631.36
+  },
+  {
+    "order_id": 5566,
+    "customer_id": 1002,
+    "amount": 3561.28
+  },
+  {
+    "order_id": 5117,
+    "customer_id": 1088,
+    "amount": 4481.55
+  },
+  {
+    "order_id": 5768,
+    "customer_id": 1035,
+    "amount": 3958.69
+  },
+  {
+    "order_id": 5348,
+    "customer_id": 1015,
+    "amount": 1820.75
+  },
+  {
+    "order_id": 5161,
+    "customer_id": 1059,
+    "amount": 514.6
+  },
+  {
+    "order_id": 5739,
+    "customer_id": 1093,
+    "amount": 1685.25
+  },
+  {
+    "order_id": 5512,
+    "customer_id": 1098,
+    "amount": 1303.93
+  },
+  {
+    "order_id": 5934,
+    "customer_id": 1014,
+    "amount": 4417.33
+  },
+  {
+    "order_id": 5305,
+    "customer_id": 1082,
+    "amount": 2784.48
+  },
+  {
+    "order_id": 5203,
+    "customer_id": 1020,
+    "amount": 2182.61
+  },
+  {
+    "order_id": 5165,
+    "customer_id": 1070,
+    "amount": 4790.75
+  },
+  {
+    "order_id": 5944,
+    "customer_id": 1068,
+    "amount": 4633.22
+  },
+  {
+    "order_id": 5613,
+    "customer_id": 1042,
+    "amount": 2698.73
+  },
+  {
+    "order_id": 5114,
+    "customer_id": 1047,
+    "amount": 4454.25
+  },
+  {
+    "order_id": 5851,
+    "customer_id": 1040,
+    "amount": 1577.54
+  },
+  {
+    "order_id": 5246,
+    "customer_id": 1073,
+    "amount": 4761.27
+  },
+  {
+    "order_id": 5087,
+    "customer_id": 1094,
+    "amount": 2686.96
+  },
+  {
+    "order_id": 5070,
+    "customer_id": 1098,
+    "amount": 2897.18
+  },
+  {
+    "order_id": 5128,
+    "customer_id": 1017,
+    "amount": 3468.88
+  },
+  {
+    "order_id": 5969,
+    "customer_id": 1071,
+    "amount": 1243.07
+  },
+  {
+    "order_id": 5540,
+    "customer_id": 1078,
+    "amount": 2404.12
+  },
+  {
+    "order_id": 5216,
+    "customer_id": 1070,
+    "amount": 3898.69
+  },
+  {
+    "order_id": 5706,
+    "customer_id": 1026,
+    "amount": 3708.27
+  },
+  {
+    "order_id": 5408,
+    "customer_id": 1086,
+    "amount": 3424.45
+  },
+  {
+    "order_id": 5448,
+    "customer_id": 1067,
+    "amount": 2531.69
+  },
+  {
+    "order_id": 5253,
+    "customer_id": 1029,
+    "amount": 788.12
+  },
+  {
+    "order_id": 5021,
+    "customer_id": 1076,
+    "amount": 2992.65
+  },
+  {
+    "order_id": 5602,
+    "customer_id": 1029,
+    "amount": 532.36
+  },
+  {
+    "order_id": 5724,
+    "customer_id": 1081,
+    "amount": 764.93
+  },
+  {
+    "order_id": 5069,
+    "customer_id": 1005,
+    "amount": 4368.36
+  },
+  {
+    "order_id": 5072,
+    "customer_id": 1066,
+    "amount": 1571.02
+  },
+  {
+    "order_id": 5685,
+    "customer_id": 1063,
+    "amount": 1464.07
+  },
+  {
+    "order_id": 5135,
+    "customer_id": 1093,
+    "amount": 4709.81
+  },
+  {
+    "order_id": 5584,
+    "customer_id": 1074,
+    "amount": 2627.02
+  },
+  {
+    "order_id": 5803,
+    "customer_id": 1061,
+    "amount": 4133.74
+  },
+  {
+    "order_id": 5194,
+    "customer_id": 1013,
+    "amount": 936.19
+  },
+  {
+    "order_id": 5441,
+    "customer_id": 1046,
+    "amount": 2406.1
+  },
+  {
+    "order_id": 5478,
+    "customer_id": 1094,
+    "amount": 743.77
+  },
+  {
+    "order_id": 5669,
+    "customer_id": 1083,
+    "amount": 942.88
+  },
+  {
+    "order_id": 5412,
+    "customer_id": 1094,
+    "amount": 2026.86
+  },
+  {
+    "order_id": 5882,
+    "customer_id": 1014,
+    "amount": 1618.95
+  },
+  {
+    "order_id": 5194,
+    "customer_id": 1069,
+    "amount": 2518.76
+  },
+  {
+    "order_id": 5432,
+    "customer_id": 1024,
+    "amount": 1753.45
+  },
+  {
+    "order_id": 5255,
+    "customer_id": 1010,
+    "amount": 2494.09
+  },
+  {
+    "order_id": 5882,
+    "customer_id": 1071,
+    "amount": 940.59
+  },
+  {
+    "order_id": 5667,
+    "customer_id": 1070,
+    "amount": 4262.12
+  },
+  {
+    "order_id": 5992,
+    "customer_id": 1012,
+    "amount": 4668.65
+  },
+  {
+    "order_id": 5869,
+    "customer_id": 1031,
+    "amount": 1248.4
+  },
+  {
+    "order_id": 5497,
+    "customer_id": 1062,
+    "amount": 1461.86
+  },
+  {
+    "order_id": 5410,
+    "customer_id": 1008,
+    "amount": 1240.87
+  },
+  {
+    "order_id": 5002,
+    "customer_id": 1050,
+    "amount": 1693.41
+  },
+  {
+    "order_id": 5802,
+    "customer_id": 1059,
+    "amount": 1783.62
+  },
+  {
+    "order_id": 5713,
+    "customer_id": 1094,
+    "amount": 4979.4
+  },
+  {
+    "order_id": 5569,
+    "customer_id": 1085,
+    "amount": 3732.84
+  },
+  {
+    "order_id": 5158,
+    "customer_id": 1025,
+    "amount": 1835.19
+  },
+  {
+    "order_id": 5991,
+    "customer_id": 1008,
+    "amount": 3106.31
+  },
+  {
+    "order_id": 5555,
+    "customer_id": 1008,
+    "amount": 3865.89
+  },
+  {
+    "order_id": 5058,
+    "customer_id": 1007,
+    "amount": 3128.8
+  },
+  {
+    "order_id": 5514,
+    "customer_id": 1068,
+    "amount": 1208.45
+  },
+  {
+    "order_id": 5983,
+    "customer_id": 1066,
+    "amount": 860.5
+  },
+  {
+    "order_id": 5190,
+    "customer_id": 1009,
+    "amount": 3177.66
+  },
+  {
+    "order_id": 5691,
+    "customer_id": 1031,
+    "amount": 2316.99
+  },
+  {
+    "order_id": 5964,
+    "customer_id": 1073,
+    "amount": 1607.97
+  },
+  {
+    "order_id": 5608,
+    "customer_id": 1006,
+    "amount": 3287.22
+  },
+  {
+    "order_id": 5429,
+    "customer_id": 1085,
+    "amount": 3126.53
+  },
+  {
+    "order_id": 5535,
+    "customer_id": 1041,
+    "amount": 4706.18
+  },
+  {
+    "order_id": 5209,
+    "customer_id": 1086,
+    "amount": 3722.86
+  },
+  {
+    "order_id": 5244,
+    "customer_id": 1034,
+    "amount": 2281.04
+  },
+  {
+    "order_id": 5687,
+    "customer_id": 1083,
+    "amount": 1849.99
+  },
+  {
+    "order_id": 5323,
+    "customer_id": 1097,
+    "amount": 4710.8
+  },
+  {
+    "order_id": 5009,
+    "customer_id": 1059,
+    "amount": 3295.22
+  },
+  {
+    "order_id": 5576,
+    "customer_id": 1013,
+    "amount": 829.67
+  },
+  {
+    "order_id": 5218,
+    "customer_id": 1065,
+    "amount": 1693.4
+  },
+  {
+    "order_id": 5955,
+    "customer_id": 1045,
+    "amount": 4463.89
+  },
+  {
+    "order_id": 5900,
+    "customer_id": 1032,
+    "amount": 2162.87
+  },
+  {
+    "order_id": 5161,
+    "customer_id": 1057,
+    "amount": 4251.85
+  },
+  {
+    "order_id": 5720,
+    "customer_id": 1039,
+    "amount": 3252.55
+  },
+  {
+    "order_id": 5826,
+    "customer_id": 1084,
+    "amount": 2880.23
+  },
+  {
+    "order_id": 5683,
+    "customer_id": 1071,
+    "amount": 1847.2
+  },
+  {
+    "order_id": 5679,
+    "customer_id": 1014,
+    "amount": 4725.19
+  },
+  {
+    "order_id": 5137,
+    "customer_id": 1034,
+    "amount": 1019.43
+  },
+  {
+    "order_id": 5109,
+    "customer_id": 1096,
+    "amount": 2989.51
+  },
+  {
+    "order_id": 5278,
+    "customer_id": 1037,
+    "amount": 3221.73
+  },
+  {
+    "order_id": 5734,
+    "customer_id": 1044,
+    "amount": 1416.19
+  },
+  {
+    "order_id": 5649,
+    "customer_id": 1034,
+    "amount": 2774.34
+  },
+  {
+    "order_id": 5257,
+    "customer_id": 1007,
+    "amount": 915.34
+  },
+  {
+    "order_id": 5433,
+    "customer_id": 1036,
+    "amount": 698.39
+  }
+]
